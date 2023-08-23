@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^(.*)$ https://www.matsudoseikei.jp/$1 [R=301,L]

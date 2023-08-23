@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="278" viewBox="0 0 590 278">
+  <g id="グループ_223" data-name="グループ 223" transform="translate(0 -0.5)">
+    <rect id="長方形_157" data-name="長方形 157" width="590" height="278" transform="translate(0 0.5)" fill="#fff"/>
+    <g id="グループ_91" data-name="グループ 91" transform="translate(41 39.5)">
+      <g id="グループ_82" data-name="グループ 82" transform="translate(0 182.5)">
+        <text id="_" data-name="※" transform="translate(0 14.5)" fill="#242424" font-size="14" font-family="DNPShueiGoGinStd-M, DNP ShueiGoGinStd" letter-spacing="0.05em"><tspan x="0" y="0">※</tspan></text>
+        <text id="土曜" transform="translate(31 14.5)" fill="#242424" font-size="14" font-family="DNPShueiGoGinStd-M, DNP ShueiGoGinStd" letter-spacing="0.05em"><tspan x="0" y="0">土曜</tspan></text>
+        <text id="_14:00-16:30" data-name="14:00-16:30" transform="translate(64 14.5)" fill="#242424" font-size="14" font-family="Outfit" letter-spacing="0.05em"><tspan x="0" y="0">14:00-16:30</tspan></text>
+        <path id="パス_69" data-name="パス 69" d="M6,0l6,12H0Z" transform="translate(17 3.5)" fill="#2497c1"/>
+      </g>
+      <g id="グループ_89" data-name="グループ 89" transform="translate(1 -2189)">
+        <g id="グループ_88" data-name="グループ 88" transform="translate(0 6)">
+          <path id="線_22" data-name="線 22" d="M508,1H0V-1H508Z" transform="translate(0 2349)" fill="#e6e6e6"/>
+          <g id="グループ_87" data-name="グループ 87" transform="translate(11.5)">
+            <g id="グループ_81" data-name="グループ 81" transform="translate(-831 2307)">
+              <text id="_14:00-17:00" data-name="14:00-17:00" transform="translate(831 16)" fill="#242424" font-size="16" font-family="Outfit" letter-spacing="0.05em"><tspan x="0" y="0">14:00-17:00</tspan></text>
+            </g>
+            <circle id="楕円形_15" data-name="楕円形 15" cx="5.5" cy="5.5" r="5.5" transform="translate(163 2312)" fill="#2497c1"/>
+            <circle id="楕円形_17" data-name="楕円形 17" cx="5.5" cy="5.5" r="5.5" transform="translate(215 2312)" fill="#2497c1"/>
+            <circle id="楕円形_19" data-name="楕円形 19" cx="5.5" cy="5.5" r="5.5" transform="translate(264 2312)" fill="#2497c1"/>
+            <circle id="楕円形_25" data-name="楕円形 25" cx="5.5" cy="5.5" r="5.5" transform="translate(316 2312)" fill="#2497c1"/>
+            <circle id="楕円形_23" data-name="楕円形 23" cx="5.5" cy="5.5" r="5.5" transform="translate(365 2312)" fill="#2497c1"/>
+            <path id="多角形_1" data-name="多角形 1" d="M6,0l6,11H0Z" transform="translate(413 2312)" fill="#2497c1"/>
+            <text id="休診" transform="translate(455 2323)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">休診</tspan></text>
+          </g>
+        </g>
+        <g id="グループ_86" data-name="グループ 86" transform="translate(0 2)">
+          <path id="線_21" data-name="線 21" d="M508,1H0V-1H508Z" transform="translate(0 2289)" fill="#e6e6e6"/>
+          <g id="グループ_85" data-name="グループ 85" transform="translate(11.5)">
+            <g id="グループ_80" data-name="グループ 80" transform="translate(-831 2247)">
+              <text id="_9:00-12:00" data-name="9:00-12:00" transform="translate(831 16)" fill="#242424" font-size="16" font-family="Outfit" letter-spacing="0.05em"><tspan x="0" y="0">9:00-12:00</tspan></text>
+            </g>
+            <circle id="楕円形_14" data-name="楕円形 14" cx="5.5" cy="5.5" r="5.5" transform="translate(163 2252)" fill="#2497c1"/>
+            <circle id="楕円形_16" data-name="楕円形 16" cx="5.5" cy="5.5" r="5.5" transform="translate(215 2252)" fill="#2497c1"/>
+            <circle id="楕円形_18" data-name="楕円形 18" cx="5.5" cy="5.5" r="5.5" transform="translate(264 2252)" fill="#2497c1"/>
+            <circle id="楕円形_26" data-name="楕円形 26" cx="5.5" cy="5.5" r="5.5" transform="translate(316 2252)" fill="#2497c1"/>
+            <circle id="楕円形_22" data-name="楕円形 22" cx="5.5" cy="5.5" r="5.5" transform="translate(365 2252)" fill="#2497c1"/>
+            <circle id="楕円形_24" data-name="楕円形 24" cx="5.5" cy="5.5" r="5.5" transform="translate(414 2252)" fill="#2497c1"/>
+            <text id="休診-2" data-name="休診" transform="translate(455 2263)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">休診</tspan></text>
+          </g>
+        </g>
+        <g id="グループ_84" data-name="グループ 84">
+          <path id="線_20" data-name="線 20" d="M508,1H0V-1H508Z" transform="translate(0 2227)" fill="#e6e6e6"/>
+          <g id="グループ_83" data-name="グループ 83" transform="translate(11.5)">
+            <text id="受付時間" transform="translate(0 2203)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">受付時間</tspan></text>
+            <g id="グループ_79" data-name="グループ 79" transform="translate(-782 2189)">
+              <text id="日" transform="translate(1245 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">日</tspan></text>
+              <text id="土" transform="translate(1195 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">土</tspan></text>
+              <text id="金" transform="translate(1145 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">金</tspan></text>
+              <text id="木" transform="translate(1095 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">木</tspan></text>
+              <text id="水" transform="translate(1045 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">水</tspan></text>
+              <text id="火" transform="translate(995 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">火</tspan></text>
+              <text id="月" transform="translate(945 14)" fill="#222" font-size="16" font-family="DNPShueiGoGinStd-B, DNP ShueiGoGinStd" letter-spacing="0.025em"><tspan x="0" y="0">月</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="_祝日_年末年始は休診です_" data-name="※祝日・年末年始は休診です。" transform="translate(197 236.5)" fill="#242424" font-size="14" font-family="DNPShueiGoGinStd-M, DNP ShueiGoGinStd" letter-spacing="0.05em"><tspan x="0" y="0">※祝日・年末年始は休診です。</tspan></text>
+  </g>
+</svg>

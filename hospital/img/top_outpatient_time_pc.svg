@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="246.5" viewBox="0 0 610 246.5">
+  <g id="グループ_92" data-name="グループ 92" transform="translate(-606 -1778)">
+    <rect id="長方形_45" data-name="長方形 45" width="610" height="246.5" transform="translate(606 1778)" fill="#fff"/>
+    <g id="グループ_66" data-name="グループ 66" transform="translate(616.5 1826)">
+      <text id="受付時間" transform="translate(34.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">受付時間</tspan></text>
+      <text id="休診" transform="translate(443.5 73)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">休診</tspan></text>
+      <text id="休診-2" data-name="休診" transform="translate(499.5 73)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">休診</tspan></text>
+      <text id="休診-3" data-name="休診" transform="translate(443.5 130)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">休診</tspan></text>
+      <text id="休診-4" data-name="休診" transform="translate(499.5 130)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">休診</tspan></text>
+      <text id="日" transform="translate(507.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">日</tspan></text>
+      <text id="土" transform="translate(451.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">土</tspan></text>
+      <text id="金" transform="translate(395.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">金</tspan></text>
+      <text id="木" transform="translate(339.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">木</tspan></text>
+      <text id="水" transform="translate(283.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">水</tspan></text>
+      <text id="火" transform="translate(227.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">火</tspan></text>
+      <text id="月" transform="translate(171.5 14)" fill="#222" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">月</tspan></text>
+      <text id="_8:20_-_11:30" data-name="8:20 - 11:30" transform="translate(34.5 74)" fill="#222" font-size="18" font-family="Barlow-Medium, Barlow" font-weight="500" letter-spacing="0.025em"><tspan x="0" y="0">8:20 - 11:30</tspan></text>
+      <text id="_14:00_-_17:00" data-name="14:00 - 17:00" transform="translate(34.5 131)" fill="#222" font-size="18" font-family="Barlow-Medium, Barlow" font-weight="500" letter-spacing="0.025em"><tspan x="0" y="0">14:00 - 17:00</tspan></text>
+      <path id="線_15" data-name="線 15" d="M520,.5H0v-1H520Z" transform="translate(34.5 38.5)" fill="#d8d8d8"/>
+      <path id="線_16" data-name="線 16" d="M520,.5H0v-1H520Z" transform="translate(34.5 95.5)" fill="#d8d8d8"/>
+      <path id="線_17" data-name="線 17" d="M520,.5H0v-1H520Z" transform="translate(34.5 150.5)" fill="#d8d8d8"/>
+      <circle id="楕円形_4" data-name="楕円形 4" cx="5.5" cy="5.5" r="5.5" transform="translate(171.5 62)" fill="#1477db"/>
+      <circle id="楕円形_7" data-name="楕円形 7" cx="5.5" cy="5.5" r="5.5" transform="translate(229.5 62)" fill="#1477db"/>
+      <circle id="楕円形_9" data-name="楕円形 9" cx="5.5" cy="5.5" r="5.5" transform="translate(287.5 62)" fill="#1477db"/>
+      <circle id="楕円形_11" data-name="楕円形 11" cx="5.5" cy="5.5" r="5.5" transform="translate(342.5 62)" fill="#1477db"/>
+      <circle id="楕円形_13" data-name="楕円形 13" cx="5.5" cy="5.5" r="5.5" transform="translate(397.5 62)" fill="#1477db"/>
+      <circle id="楕円形_5" data-name="楕円形 5" cx="5.5" cy="5.5" r="5.5" transform="translate(171.5 118)" fill="#1477db"/>
+      <circle id="楕円形_6" data-name="楕円形 6" cx="5.5" cy="5.5" r="5.5" transform="translate(229.5 118)" fill="#1477db"/>
+      <circle id="楕円形_8" data-name="楕円形 8" cx="5.5" cy="5.5" r="5.5" transform="translate(287.5 118)" fill="#1477db"/>
+      <circle id="楕円形_10" data-name="楕円形 10" cx="5.5" cy="5.5" r="5.5" transform="translate(342.5 118)" fill="#1477db"/>
+      <circle id="楕円形_12" data-name="楕円形 12" cx="5.5" cy="5.5" r="5.5" transform="translate(397.5 118)" fill="#1477db"/>
+    </g>
+  </g>
+</svg>
